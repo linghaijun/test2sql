@@ -2,6 +2,11 @@
 
 一个基于 AI 的自然语言转 SQL 查询系统，支持使用中文或英文自然语言描述查询需求，自动生成可执行的 SQL 语句。
 
+## 🏗️截图
+![查询页面](./images/query.png)
+![数据库管理页面](./images/dbmanage.png)
+![历史记录](./images/history.png)
+
 ## 🌟 功能特性
 
 - **自然语言转SQL**：使用阿里云 DashScope（通义千问）AI 模型，支持中英文自然语言输入
